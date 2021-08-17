@@ -1,0 +1,53 @@
+header{
+    text-align: center;
+} 
+
+body{
+    background-color: rgb(137, 194, 63);
+}
+
+ img {
+    height: 60px;
+    width: 60px;
+ } 
+ 
+ nav {
+    text-align: center;
+    letter-spacing: 2px;
+    background: rgb(191, 209, 24);
+    padding: 10px;
+    width: 100%;
+    opacity: 0.78;
+    display: flex; 
+    justify-content: space-evenly;
+  }
+ .links a {
+    padding-top: 10px;
+    text-decoration: none;
+    color: rgb(169, 169, 169);
+    margin: 10px;
+    font-size: 18px;
+  }
+.schools-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+.HI {
+    width: 500px; 
+    height: 500px; 
+    justify-content: right;
+} 
+
+.medicine-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+} 
+
+.Medicine {
+    width: 700px; 
+    height: 500px; 
+    justify-content: right;
+} 
+
